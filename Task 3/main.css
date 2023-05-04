@@ -1,0 +1,38 @@
+.parent_1 div{
+    display: inline-block;
+    background-color: #eee;
+    margin: 30px;
+    padding: 50px;
+}
+.one{
+    border: 5px solid red;
+    outline: 5px solid black;
+}
+.two{
+    border: 5px solid ;
+    border-color: blue green;
+    outline: 5px solid black;
+}
+.three{
+    border: 5px dashed;
+    border-color: red green blue yellow;
+    outline: 5px solid black;
+}
+.parent_2 div{
+    background-color: #eee;
+    width: 400px;
+    margin: 20px ;
+    padding: 20px;
+
+}
+.four{
+    border-left: 5px solid red;
+    outline: 10px solid #eee;
+}
+.five{
+    visibility: hidden;
+}
+.six{
+    border-left: 5px solid green;
+    outline: 10px solid #eee;
+}
